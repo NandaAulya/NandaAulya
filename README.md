@@ -19,15 +19,13 @@
 - 🧠 I'm learning Laravel, PHP, JavaScript
 
 ### My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandaAulya&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=NandaAulya&theme=dark)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=NandaAulya&show_icons=true&theme=dark">
+  <img src="https://streak-stats.demolab.com/?user=NandaAulya&theme=dark">
+</div>
 
 ### GitHub Achievements
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=NandaAulya&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 # Connect With Me :
 
