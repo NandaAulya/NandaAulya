@@ -8,8 +8,7 @@
 
 ### 🐣 About Me
 <div>
-  <p>My name is Nanda. 21 years old. Sometimes, I likes coding, </p>
-  <p>waching anime, marvel movies, playing games, eating, sleeping and repeat again!!😄</p>
+  <p>My name is Nanda. 21 years old. Sometimes, I likes coding, waching anime, marvel movies, playing games, eating, sleeping and repeat again!!😄 </p>
   <p>Im also a big fan of EXO and NCT, ecspecially Nct Dream🐰💚.</p>
 </div>
 
