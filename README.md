@@ -24,7 +24,12 @@
 </div>
 
 ### GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=NandaAulya&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NandaAulya&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
 
 ### Connect With Me :
 
