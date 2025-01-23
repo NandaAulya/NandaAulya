@@ -38,4 +38,8 @@
   </table>
 </div>
 
-### Connect With Me
+### Connect With Me :
+<a href="https://x.com/suukaamachaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandut" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a.nandaulya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandut" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gara#9351" height="30" width="40" /></a>
+</p>
