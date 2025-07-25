@@ -9,7 +9,7 @@
 <div>
   <p>My name is Nanda. 21 years old. Sometimes, I like coding,</p>
   <p>watching anime, Marvel movies, playing games, eating, sleeping, and repeating! 😄</p>
-  <p>I'm also a big fan of EXO and NCT, especially NCT Dream 🐰💚.</p>
+  <p>I'm also a big fan of EXO, NCT, and Seventeen, especially Seventeen🤍.</p>
 </div>
 
 - 🌏 I'm from Pacitan, Jawa Timur, Indonesia.  
