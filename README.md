@@ -8,14 +8,14 @@
 ### 🐣 About Me
 <div>
   <p>My name is Nanda. 21 years old. Sometimes, I like coding,</p>
-  <p>watching anime, Marvel movies, playing games, eating, sleeping, and repeat again! 😄</p>
+  <p>watching anime, Marvel movies, playing games, eating, sleeping, and repeating! 😄</p>
   <p>I'm also a big fan of EXO and NCT, especially NCT Dream 🐰💚.</p>
 </div>
 
 - 🌏 I'm from Pacitan, Jawa Timur, Indonesia.  
-- 🎓 SMPN 2 Ngadirojo | SMKN Ngadirojo | Institut Teknologi Adhi Tama Surabaya.  
-- 🌟 Hobbies:  
-- 🧠 I'm learning Laravel, PHP, JavaScript.
+- 🎓 Institut Teknologi Adhi Tama Surabaya.  
+- 🌟 Hobbies:  Watching Anime, Playing Games, Reading Books, and Manhwa.
+- 🧠 I'm learning Laravel, PHP, and JavaScript.
 
 ### GitHub Achievements
 <div align="center">
